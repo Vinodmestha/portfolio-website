@@ -47,7 +47,7 @@ export const experiencesData = [
         location: "Bengaluru, Karnataka",
         description:
             "I worked as a React Js developer for 2 years in 1 job. I also upskilled to the front end .",
-        icon: React.createElement(CgWorkAlt),
+        // icon: React.createElement(CgWorkAlt),
         date: "2021 - Present",
     },
     //   {
