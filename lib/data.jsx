@@ -46,7 +46,7 @@ export const experiencesData = [
         title: "React Js Developer",
         location: "Bengaluru, Karnataka",
         description:
-            "I worked as a React Js developer for 2 years in 1 job. I also upskilled to the front end .",
+            "I worked as a React Js developer for 2 years in 1 job. I also upskilled to the front-end web application.",
         // icon: React.createElement(CgWorkAlt),
         date: "2021 - Present",
     },
@@ -64,21 +64,21 @@ export const projectsData = [
     {
         title: "Global Garner",
         description:
-            "I worked as a React JS developer on this startup project for 2 years. Users can give public feedback to companies.",
+            "Cashback, e-commerce, social-network, local business, travel and hotel booking, bill pay and recharge, franchise and make mycart.",
         tags: ["React", "Tailwind", "Redux"],
         imageUrl: gg,
     },
     {
         title: "GGCS",
         description:
-            "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
+            "Working Hard to Make Digital Marketing Easy Together. Empower Your Business With The Digital Marketing Landscape Through Innovative Strategies And Data-Driven Insights.",
         tags: ["Vite.js", "Tailwind CSS"],
         imageUrl: ggcs,
     },
     {
-        title: "Word Analytics",
+        title: "Seat, meal and baggage selection",
         description:
-            "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+            "Flight seat, meal and baggage selection with json dummy data",
         tags: ["React", "Tailwind CSS"],
         imageUrl: seat,
     },

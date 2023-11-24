@@ -2,7 +2,8 @@
 
 import React from "react";
 import Image from "next/image";
-import MyImg from "@/public/MyImg.jpeg"
+// import MyImg from "@/public/MyImg.jpeg"
+import MyImg from "@/public/dp.jpg"
 import { motion } from "framer-motion";
 import Link from "next/link";
 import { BsArrowRight, BsLinkedin } from "react-icons/bs";
@@ -64,7 +65,7 @@ export default function Intro() {
                 animate={{ opacity: 1, y: 0 }}
             >
                 <span className="font-bold">Hello, {`I'm`} Vinod Mestha.</span> {`I'm`} a{" "}
-                <span className="font-bold">Front-End developer</span> with{" "}
+                <span className="font-bold">Front-End web developer</span> with{" "}
                 <span className="font-bold">2 years</span> of experience. I enjoy
                 building <span className="italic">web applications</span>. My focus is{" "}
                 <span className="underline">React.js, Next.js and JavaScript</span>.

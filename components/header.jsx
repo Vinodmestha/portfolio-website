@@ -37,10 +37,10 @@ function Header() {
                                     }
                                 )}
                                 href={link.hash}
-                                onClick={() => {
-                                    setActiveSection(link.name);
-                                    setTimeOfLastClick(Date.now());
-                                }}
+                            // onClick={() => {
+                            //     setActiveSection(link.name);
+                            //     setTimeOfLastClick(Date.now());
+                            // }}
                             >
                                 {link.name}
 
