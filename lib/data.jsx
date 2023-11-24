@@ -1,7 +1,7 @@
-import React from "react";
-import { CgWorkAlt } from "react-icons/cg";
-import { FaReact } from "react-icons/fa";
-import { LuGraduationCap } from "react-icons/lu";
+// import React from "react";
+// import { CgWorkAlt } from "react-icons/cg";
+// import { FaReact } from "react-icons/fa";
+// import { LuGraduationCap } from "react-icons/lu";
 import gg from "@/public/gg.png";
 import ggcs from "@/public/ggcs.png";
 import seat from "@/public/seatApp.png";
@@ -67,6 +67,7 @@ export const projectsData = [
             "Cashback, e-commerce, social-network, local business, travel and hotel booking, bill pay and recharge, franchise and make mycart.",
         tags: ["React", "Tailwind", "Redux"],
         imageUrl: gg,
+        url: 'https://beta.globalgarner.com/'
     },
     {
         title: "GGCS",
@@ -74,6 +75,7 @@ export const projectsData = [
             "Working Hard to Make Digital Marketing Easy Together. Empower Your Business With The Digital Marketing Landscape Through Innovative Strategies And Data-Driven Insights.",
         tags: ["Vite.js", "Tailwind CSS"],
         imageUrl: ggcs,
+        url: "https://beta.globalgarner.com/"
     },
     {
         title: "Seat, meal and baggage selection",
@@ -81,6 +83,7 @@ export const projectsData = [
             "Flight seat, meal and baggage selection with json dummy data",
         tags: ["React", "Tailwind CSS"],
         imageUrl: seat,
+        url: "#"
     },
 ]
 
