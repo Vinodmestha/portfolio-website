@@ -75,7 +75,7 @@ export const projectsData = [
             "Working Hard to Make Digital Marketing Easy Together. Empower Your Business With The Digital Marketing Landscape Through Innovative Strategies And Data-Driven Insights.",
         tags: ["Vite.js", "Tailwind CSS"],
         imageUrl: ggcs,
-        url: "https://beta.globalgarner.com/"
+        url: "https://ggconsultancy.services/"
     },
     {
         title: "Seat, meal and baggage selection",
@@ -83,7 +83,7 @@ export const projectsData = [
             "Flight seat, meal and baggage selection with json dummy data",
         tags: ["React", "Tailwind CSS"],
         imageUrl: seat,
-        url: "#"
+        url: "https://special-service-mu.vercel.app/"
     },
 ]
 
@@ -102,7 +102,7 @@ export const skillsData = [
     "Redux",
     //   "GraphQL",
     //   "Apollo",
-    "Express",
+    // "Expruess",
     //   "PostgreSQL",
     //   "Python",
     //   "Django",
