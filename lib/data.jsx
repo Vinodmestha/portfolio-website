@@ -4,7 +4,10 @@
 // import { LuGraduationCap } from "react-icons/lu";
 import gg from "@/public/gg.png";
 import ggcs from "@/public/ggcs.png";
+import asianit from "@/public/asianit.png";
+import jagdai from "@/public/jagdai.png";
 import seat from "@/public/seatApp.png";
+
 
 export const links = [
     {
@@ -27,10 +30,10 @@ export const links = [
         name: "Experience",
         hash: "#experience",
     },
-    {
-        name: "Contact",
-        hash: "#contact",
-    },
+    // {
+    //     name: "Contact",
+    //     hash: "#contact",
+    // },
 ];
 
 export const experiencesData = [
@@ -76,6 +79,22 @@ export const projectsData = [
         tags: ["Vite.js", "Tailwind CSS"],
         imageUrl: ggcs,
         url: "https://ggconsultancy.services/"
+    },
+    {
+        title: "JagDai Food",
+        description:
+            "Food + Technology",
+        tags: ["Vite.js", "Tailwind CSS"],
+        imageUrl: jagdai,
+        url: "https://jagdai.ggconsultancy.services/"
+    },
+    {
+        title: "Freelancing Project - AsianHope IT Company",
+        description:
+            "Asian Hope is the fastest growing Manpower solutions, Certified Training' & Career counselling provider in India, with specialized service.",
+        tags: ["vite.js", "Tailwind CSS"],
+        imageUrl: asianit,
+        url: "https://asianhopeit.com/"
     },
     {
         title: "Seat, meal and baggage selection",
