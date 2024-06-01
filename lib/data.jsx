@@ -49,7 +49,7 @@ export const experiencesData = [
         title: "React Js Developer",
         location: "Bengaluru, Karnataka",
         description:
-            "I worked as a React Js developer for 2 years in 1 job. I also upskilled to the front-end web application.",
+            "I worked as a React Js developer for 3 years in 1 job. I also upskilled to the front-end web application.",
         // icon: React.createElement(CgWorkAlt),
         date: "2021 - Present",
     },
@@ -70,7 +70,7 @@ export const projectsData = [
             "Cashback, e-commerce, social-network, local business, travel and hotel booking, bill pay and recharge, franchise and make mycart.",
         tags: ["React", "Tailwind", "Redux"],
         imageUrl: gg,
-        url: 'https://beta.globalgarner.com/'
+        url: 'https://globalgarner.com/'
     },
     {
         title: "GGCS",
@@ -83,7 +83,7 @@ export const projectsData = [
     {
         title: "JagDai Food",
         description:
-            "Food + Technology",
+            "Designed and developed a static website for a business using React Js & Tailwind CSS. Created a responsive layout to ensure optimal viewing across devices. Implemented interactive elements such as image sliders and contact forms. Worked closely with the client to achieve their desired aesthetic and functionality, delivering the project on time and within budget.",
         tags: ["Vite.js", "Tailwind CSS"],
         imageUrl: jagdai,
         url: "https://jagdai.ggconsultancy.services/"
@@ -113,7 +113,7 @@ export const skillsData = [
     "TypeScript",
     "React",
     "Next.js",
-    //   "Node.js",
+    "React Native",
     "Git",
     "Tailwind",
     //   "Prisma",
@@ -125,5 +125,7 @@ export const skillsData = [
     //   "PostgreSQL",
     //   "Python",
     //   "Django",
+    "Material UI",
+    "Ant Design",
     "Framer Motion",
 ]
