@@ -20,7 +20,7 @@ export default function Intro() {
         <section
             ref={ref}
             id="home"
-            className="mb-28 max-w-[50rem] text-center sm:mb-0 scroll-mt-[100rem]"
+            className="mb-28 sm:mt-16 max-w-[50rem] text-center sm:mb-0 scroll-mt-[100rem]"
         >
             <div className="flex items-center justify-center">
                 <div className="relative">
@@ -81,7 +81,7 @@ export default function Intro() {
             >
                 <a
                     className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-                    href="/resume.pdf"
+                    href="/Vinodmestha.pdf"
                     download
                 >
                     Download CV {" "}
